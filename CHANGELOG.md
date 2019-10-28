@@ -1,3 +1,4 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* A simple plugin to stop battery optimization usage in Android.
+
